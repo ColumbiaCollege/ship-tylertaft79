@@ -1,4 +1,5 @@
 //Movement Example Code
+//Please note, what I have here is not the only method to complete this assignment. If you would like to scrap it, you may.
 
 //variables for position
 float xPos =0;
